@@ -14,9 +14,8 @@ console.log(res);
 console.log(res ? chalk.green("success"):chalk.red("fail"));
 
 
-
+// npm init - Create package json file 
 // npm init to initialise package
 // npm init -y
 // npm install chalk
 // npm install validator
-// npm init - Create package json file 
